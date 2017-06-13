@@ -1,6 +1,6 @@
 {
-  "name": "stitch",
-  "version": "1.0.0",
+  "name": "mongodb-stitch",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/node/client.js",
   "scripts": {
